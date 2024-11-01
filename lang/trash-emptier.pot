@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: trash emptier\n"
+"POT-Creation-Date: 2012-12-07 21:48+0200\n"
+"PO-Revision-Date: 2012-12-07 21:48+0200\n"
+"Last-Translator: Mark Kaplun <mark@marksw.com>\n"
+"Language-Team: Mark Kaplun <mark@marksw.com>\n"
+"Language: hebrew\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: D:\\wamp\\www\\wp342\\wp-content\\plugins\\emptytrash\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../trashemptier.php:60
+msgid "Trash emptier"
+msgstr ""
+
+#: ../trashemptier.php:61
+msgid "Provides control over trash emptying"
+msgstr ""
+
+#: ../trashemptier.php:69
+msgid "Automatic settings"
+msgstr ""
+
+#: ../trashemptier.php:71
+msgid "Manual"
+msgstr ""
+
+#: ../trashemptier.php:86
+msgid "Empty trash settings"
+msgstr ""
+
+#: ../trashemptier.php:86 ../trashemptier.php:87 ../trashemptier.php:156
+#: ../trashemptier.php:193
+msgid "Empty trash"
+msgstr ""
+
+#: ../trashemptier.php:96
+msgid "Empty trash scheduler"
+msgstr ""
+
+#: ../trashemptier.php:108
+msgid "Trash cleaning interval updated"
+msgstr ""
+
+#: ../trashemptier.php:121
+msgid "Trash functionality is disbaled"
+msgstr ""
+
+#: ../trashemptier.php:125
+msgid ""
+"This is configured in your wp-config.php file. You need to delete from it "
+"the line that looks like define('EMPTY_TRASH_DAYS',... if you want to manage "
+"the interval from here."
+msgstr ""
+
+#: ../trashemptier.php:141
+msgid "Items which where in the trash for more then"
+msgstr ""
+
+#: ../trashemptier.php:141
+msgid "days will be automatticaly deleted every day"
+msgstr ""
+
+#: ../trashemptier.php:142
+msgid "Never"
+msgstr ""
+
+#: ../trashemptier.php:143
+msgid "Set interval"
+msgstr ""
+
+#: ../trashemptier.php:162
+msgid ""
+"Can't perform manual delete because EMPTY_TRASH_DAYS is defined in your wp-"
+"config.php file. You need to delete it from there (the line that looks like "
+"define('EMPTY_TRASH_DAYS',...) if you want to be able to manually delete "
+"items here."
+msgstr ""
+
+#: ../trashemptier.php:177
+msgid "Trash cleaned"
+msgstr ""
+
+#: ../trashemptier.php:182
+#, php-format
+msgid ""
+"Currently items that have been more then %d days in the trash are "
+"automaticaly deleted."
+msgstr ""
+
+#: ../trashemptier.php:184
+msgid "Currently items practically never being deleted from the trash."
+msgstr ""
+
+#: ../trashemptier.php:191
+msgid "Delete items which where in the trash for more then"
+msgstr ""
+
+#: ../trashemptier.php:191
+msgid "days"
+msgstr ""
+
+#: ../trashemptier.php:192
+msgid "Delete all of the trashed items"
+msgstr ""
